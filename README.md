@@ -1,4 +1,4 @@
-# Object Oriented Project
+# ObjectOrientedProject
 Project completed for a class about object oriented project. 
 Also shows some fullstack abilities as it has a WinForms base GUI. 
 Was developed with Visual Studio. 
